@@ -20,7 +20,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  *
  */
-namespace OCA\DAV\Tests\unit\Connector\Sabre;
+namespace OCA\DAV\Tests\unit\Files;
 
 /**
  * Copyright (c) 2015 Vincent Petry <pvince81@owncloud.com>
@@ -34,7 +34,7 @@ namespace OCA\DAV\Tests\unit\Connector\Sabre;
  *
  * @group DB
  *
- * @package OCA\DAV\Tests\unit\Connector\Sabre
+ * @package OCA\DAV\Tests\unit\Files
  */
 class CustomPropertiesBackendTest extends \Test\TestCase {
 
